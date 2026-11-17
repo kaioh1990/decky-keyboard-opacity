@@ -33,3 +33,11 @@ pnpm build
 ## License
 
 BSD-3-Clause
+
+## Installing
+
+This plugin is not on the Decky Plugin Store. To install it:
+
+1. In Decky, open **Settings → General** and turn on **Developer mode**.
+2. Go to **Settings → Developer → Install Plugin from URL** and enter:
+   `https://github.com/kaioh1990/decky-keyboard-opacity/releases/download/v1.3.1/Keyboard-Opacity-v1.3.1.zip`
