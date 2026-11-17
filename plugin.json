@@ -1,0 +1,11 @@
+{
+  "name": "Keyboard Opacity",
+  "author": "kaioh1990",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["keyboard", "ui", "customization"],
+    "description": "Make the Steam on-screen keyboard translucent, with a slider to adjust how see-through it is.",
+    "image": "https://raw.githubusercontent.com/kaioh1990/decky-keyboard-opacity/main/assets/preview.png"
+  }
+}
